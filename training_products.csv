@@ -1,0 +1,241 @@
+product_name,brand,category,rating,review_count,positive_review_pct,negative_review_pct,seller_rating,price,discount_pct,delivery_issue_pct,return_risk_pct,quality_label,description
+NovaTech Demo Product 001,NovaTech,Audio,3.5,32504,55,45,2.3,33750.59,37.9,31.7,58.7,Low,Synthetic training example for educational use only.
+Auralink Demo Product 002,Auralink,Mobile Accessories,3.0,34792,58,35,4.8,552.32,53.6,44.5,45.5,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 003,PixelPeak,Home,3.1,29811,53,47,2.6,69102.78,38.1,34.7,53.8,Low,Synthetic training example for educational use only.
+HomePro Demo Product 004,HomePro,Computing,2.7,23364,40,58,4.1,5080.25,47.9,15.4,50.6,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 005,VoltEdge,Wearables,3.0,14503,56,41,2.3,37967.95,1.7,22.6,55.3,Low,Synthetic training example for educational use only.
+ClearView Demo Product 006,ClearView,Audio,4.8,23155,98,1,4.9,18765.07,17.8,44.5,21.7,Good,Synthetic training example for educational use only.
+NovaTech Demo Product 007,NovaTech,Mobile Accessories,4.2,27533,80,16,2.5,43497.84,26.3,9.4,38.4,Average,Synthetic training example for educational use only.
+Auralink Demo Product 008,Auralink,Home,3.8,34188,67,23,4.3,50585.5,14.9,43.9,43.6,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 009,PixelPeak,Computing,2.3,26716,33,58,4.3,37451.92,35.7,0.3,59.8,Low,Synthetic training example for educational use only.
+HomePro Demo Product 010,HomePro,Wearables,2.4,10026,42,51,4.3,1069.35,22.1,8.7,49.5,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 011,VoltEdge,Audio,4.3,1028,81,19,3.5,58542.16,32.1,34.3,30.2,Average,Synthetic training example for educational use only.
+ClearView Demo Product 012,ClearView,Mobile Accessories,4.9,6720,95,2,4.2,41619.03,2.6,26.9,19.9,Good,Synthetic training example for educational use only.
+NovaTech Demo Product 013,NovaTech,Home,2.6,19694,52,44,2.3,14635.75,0.6,39.4,60.6,Low,Synthetic training example for educational use only.
+Auralink Demo Product 014,Auralink,Computing,4.2,21463,87,13,3.8,60205.36,31.1,18.9,29.6,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 015,PixelPeak,Wearables,4.0,25060,80,11,4.5,10827.66,24.7,40.0,40.0,Average,Synthetic training example for educational use only.
+HomePro Demo Product 016,HomePro,Audio,2.5,16455,40,52,2.4,68098.65,35.3,35.1,69.2,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 017,VoltEdge,Mobile Accessories,3.5,32584,58,37,2.7,31834.56,7.4,43.8,56.3,Low,Synthetic training example for educational use only.
+ClearView Demo Product 018,ClearView,Home,3.7,15588,76,16,4.6,57324.38,46.5,7.7,29.1,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 019,NovaTech,Computing,2.5,16995,44,48,3.7,21091.23,45.5,12.1,49.8,Low,Synthetic training example for educational use only.
+Auralink Demo Product 020,Auralink,Wearables,3.7,32838,67,32,4.6,38162.1,18.1,9.7,37.7,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 021,PixelPeak,Audio,2.8,12475,50,43,4.4,1420.54,47.2,13.3,46.3,Low,Synthetic training example for educational use only.
+HomePro Demo Product 022,HomePro,Mobile Accessories,4.1,21507,85,7,4.2,46222.91,46.8,23.3,29.0,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 023,VoltEdge,Home,3.8,27567,75,15,4.9,37525.49,48.6,39.2,38.7,Average,Synthetic training example for educational use only.
+ClearView Demo Product 024,ClearView,Computing,3.5,30687,66,30,4.0,3201.05,53.6,36.3,50.7,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 025,NovaTech,Wearables,2.5,3403,49,47,3.7,29906.9,46.3,43.1,73.0,Low,Synthetic training example for educational use only.
+Auralink Demo Product 026,Auralink,Audio,2.9,27570,52,48,3.4,67339.9,33.0,0.9,46.0,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 027,PixelPeak,Mobile Accessories,3.3,1457,65,30,3.6,69860.68,44.0,21.7,46.8,Low,Synthetic training example for educational use only.
+HomePro Demo Product 028,HomePro,Home,4.0,16148,71,29,4.5,59632.19,31.7,3.8,27.2,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 029,VoltEdge,Computing,4.5,14706,92,4,3.3,57177.69,10.1,37.1,38.1,Average,Synthetic training example for educational use only.
+ClearView Demo Product 030,ClearView,Wearables,4.6,9163,83,9,5.0,36227.47,52.6,22.4,18.2,Good,Synthetic training example for educational use only.
+NovaTech Demo Product 031,NovaTech,Audio,4.9,28003,91,9,3.8,17828.42,19.2,39.8,24.0,Good,Synthetic training example for educational use only.
+Auralink Demo Product 032,Auralink,Mobile Accessories,2.2,21346,41,53,4.7,54537.56,17.5,8.3,62.5,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 033,PixelPeak,Home,2.5,19557,48,49,4.7,45175.55,47.1,33.8,48.7,Low,Synthetic training example for educational use only.
+HomePro Demo Product 034,HomePro,Computing,4.0,12368,59,33,3.7,36849.8,55.0,16.1,34.2,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 035,VoltEdge,Wearables,4.5,26287,73,20,2.5,35160.29,38.4,12.1,26.4,Average,Synthetic training example for educational use only.
+ClearView Demo Product 036,ClearView,Audio,3.8,29320,61,38,4.3,5349.49,33.4,36.6,35.2,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 037,NovaTech,Mobile Accessories,4.7,18597,86,11,4.4,14757.8,32.7,27.4,15.4,Good,Synthetic training example for educational use only.
+Auralink Demo Product 038,Auralink,Home,4.6,25532,80,17,3.3,35366.79,22.2,36.5,33.4,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 039,PixelPeak,Computing,3.9,9247,66,31,2.4,15709.84,43.1,27.3,47.2,Low,Synthetic training example for educational use only.
+HomePro Demo Product 040,HomePro,Wearables,3.1,31226,59,34,2.9,15311.11,47.1,4.0,53.0,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 041,VoltEdge,Audio,4.7,22061,79,20,3.3,34377.42,1.2,24.2,21.5,Average,Synthetic training example for educational use only.
+ClearView Demo Product 042,ClearView,Mobile Accessories,2.0,18632,18,77,2.7,1806.1,18.4,13.0,64.8,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 043,NovaTech,Home,2.7,3647,33,60,4.7,40816.36,11.3,43.0,70.1,Low,Synthetic training example for educational use only.
+Auralink Demo Product 044,Auralink,Computing,2.9,6328,46,47,4.1,11525.69,11.8,12.7,48.6,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 045,PixelPeak,Wearables,3.0,19702,44,55,2.5,28207.78,4.2,3.5,57.3,Low,Synthetic training example for educational use only.
+HomePro Demo Product 046,HomePro,Audio,4.0,27744,76,22,4.4,66008.17,18.5,14.5,22.7,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 047,VoltEdge,Mobile Accessories,4.0,30774,80,10,2.3,6447.85,2.5,22.9,36.3,Average,Synthetic training example for educational use only.
+ClearView Demo Product 048,ClearView,Home,3.5,1482,74,23,5.0,31397.87,33.1,40.3,44.4,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 049,NovaTech,Computing,2.2,20473,24,70,2.5,54537.22,25.2,8.3,62.7,Low,Synthetic training example for educational use only.
+Auralink Demo Product 050,Auralink,Wearables,4.1,23236,62,37,3.6,26737.32,8.1,4.3,29.9,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 051,PixelPeak,Audio,2.2,6336,38,60,3.1,43124.92,19.6,45.0,81.4,Low,Synthetic training example for educational use only.
+HomePro Demo Product 052,HomePro,Mobile Accessories,3.6,32898,60,40,5.0,48224.58,38.6,40.9,50.0,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 053,VoltEdge,Home,4.5,15145,96,4,4.9,1257.1,14.2,41.1,22.9,Good,Synthetic training example for educational use only.
+ClearView Demo Product 054,ClearView,Computing,4.5,18742,79,14,3.4,51678.36,29.5,26.0,21.3,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 055,NovaTech,Wearables,3.3,28708,42,58,3.2,60282.41,41.3,19.8,50.2,Low,Synthetic training example for educational use only.
+Auralink Demo Product 056,Auralink,Audio,2.8,19351,41,55,4.7,7826.89,7.4,12.5,39.5,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 057,PixelPeak,Mobile Accessories,2.6,15818,43,54,2.9,58427.45,47.6,2.0,47.0,Low,Synthetic training example for educational use only.
+HomePro Demo Product 058,HomePro,Home,4.0,27102,85,6,3.6,40111.28,30.2,40.7,37.8,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 059,VoltEdge,Computing,2.5,31969,32,61,3.9,11000.22,4.1,20.7,60.8,Low,Synthetic training example for educational use only.
+ClearView Demo Product 060,ClearView,Wearables,2.3,4435,44,51,4.1,29989.02,50.3,43.3,74.9,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 061,NovaTech,Audio,2.6,12710,38,54,3.1,39413.28,4.8,31.8,66.5,Low,Synthetic training example for educational use only.
+Auralink Demo Product 062,Auralink,Mobile Accessories,4.8,13793,81,18,3.0,19395.56,5.0,36.6,28.1,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 063,PixelPeak,Home,4.5,4795,85,5,2.7,18632.03,42.4,21.0,28.9,Average,Synthetic training example for educational use only.
+HomePro Demo Product 064,HomePro,Computing,2.4,2041,38,56,4.0,17760.5,53.3,31.1,69.4,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 065,VoltEdge,Wearables,3.1,9770,52,44,4.3,26132.0,12.2,19.1,50.7,Low,Synthetic training example for educational use only.
+ClearView Demo Product 066,ClearView,Audio,3.2,13918,56,38,4.4,47681.64,9.0,33.4,39.4,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 067,NovaTech,Mobile Accessories,4.4,22122,84,12,3.6,5056.67,35.6,3.1,25.8,Average,Synthetic training example for educational use only.
+Auralink Demo Product 068,Auralink,Home,4.4,16583,78,17,3.3,21623.47,37.7,5.3,20.3,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 069,PixelPeak,Computing,3.2,29248,66,31,3.7,59910.61,21.6,30.0,46.2,Low,Synthetic training example for educational use only.
+HomePro Demo Product 070,HomePro,Wearables,2.8,29257,43,56,4.1,42297.88,23.5,34.9,66.1,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 071,VoltEdge,Audio,3.5,7355,55,38,4.1,7705.87,46.9,28.7,50.0,Low,Synthetic training example for educational use only.
+ClearView Demo Product 072,ClearView,Mobile Accessories,4.7,19017,81,18,3.8,47293.55,54.5,26.0,28.4,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 073,NovaTech,Home,4.1,712,65,33,2.7,50361.02,27.2,8.1,39.1,Average,Synthetic training example for educational use only.
+Auralink Demo Product 074,Auralink,Computing,4.2,26548,77,20,4.1,20157.58,34.9,28.9,23.2,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 075,PixelPeak,Wearables,4.4,16078,80,11,3.1,8924.32,45.7,36.4,35.3,Average,Synthetic training example for educational use only.
+HomePro Demo Product 076,HomePro,Audio,4.7,22480,98,0,4.6,36102.24,2.5,37.6,22.5,Good,Synthetic training example for educational use only.
+VoltEdge Demo Product 077,VoltEdge,Mobile Accessories,3.7,16317,53,44,2.8,65021.16,30.9,31.4,58.1,Low,Synthetic training example for educational use only.
+ClearView Demo Product 078,ClearView,Home,3.0,5823,52,43,3.6,62195.41,0.8,30.9,46.1,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 079,NovaTech,Computing,3.7,5469,54,40,4.2,7692.93,0.2,42.6,42.4,Low,Synthetic training example for educational use only.
+Auralink Demo Product 080,Auralink,Wearables,4.0,2163,65,34,4.0,69885.34,51.6,38.9,33.1,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 081,PixelPeak,Audio,2.3,24851,30,64,2.4,13366.09,53.8,43.4,76.5,Low,Synthetic training example for educational use only.
+HomePro Demo Product 082,HomePro,Mobile Accessories,2.6,14652,26,70,2.5,29462.24,26.4,45.0,81.1,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 083,VoltEdge,Home,2.4,9485,21,71,2.6,51945.36,28.2,27.9,74.4,Low,Synthetic training example for educational use only.
+ClearView Demo Product 084,ClearView,Computing,2.7,30359,33,67,5.0,47906.67,33.1,28.6,46.7,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 085,NovaTech,Wearables,4.1,24373,77,18,3.7,59204.72,14.3,32.2,34.3,Average,Synthetic training example for educational use only.
+Auralink Demo Product 086,Auralink,Audio,2.5,34871,23,76,3.3,44542.76,32.9,7.1,63.2,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 087,PixelPeak,Mobile Accessories,4.1,10768,62,34,4.1,25652.34,6.9,12.7,22.7,Average,Synthetic training example for educational use only.
+HomePro Demo Product 088,HomePro,Home,4.6,7297,77,19,3.1,35483.98,12.4,33.1,29.0,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 089,VoltEdge,Computing,4.2,23930,64,27,4.5,14897.3,10.8,36.1,24.7,Average,Synthetic training example for educational use only.
+ClearView Demo Product 090,ClearView,Wearables,2.9,26622,53,38,2.2,4475.55,3.1,12.0,53.5,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 091,NovaTech,Audio,2.7,22617,50,44,2.4,56568.77,54.1,41.8,66.4,Low,Synthetic training example for educational use only.
+Auralink Demo Product 092,Auralink,Mobile Accessories,2.7,5440,46,53,2.7,37047.72,44.5,9.2,63.3,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 093,PixelPeak,Home,4.4,11092,76,22,2.6,68298.33,3.9,44.7,48.9,Average,Synthetic training example for educational use only.
+HomePro Demo Product 094,HomePro,Computing,4.0,30370,78,14,3.6,18426.01,52.9,25.3,39.9,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 095,VoltEdge,Wearables,2.2,2893,34,63,3.9,52241.12,26.1,16.9,55.6,Low,Synthetic training example for educational use only.
+ClearView Demo Product 096,ClearView,Audio,3.8,19436,80,20,4.8,3507.87,20.6,28.8,33.7,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 097,NovaTech,Mobile Accessories,4.0,26300,77,15,3.6,11656.44,8.7,23.6,26.2,Average,Synthetic training example for educational use only.
+Auralink Demo Product 098,Auralink,Home,5.0,24159,90,9,4.8,59048.08,8.6,8.3,2.1,Good,Synthetic training example for educational use only.
+PixelPeak Demo Product 099,PixelPeak,Computing,2.9,12738,40,55,3.2,49206.42,10.2,0.7,50.2,Low,Synthetic training example for educational use only.
+HomePro Demo Product 100,HomePro,Wearables,4.1,22347,86,5,3.0,18555.43,46.2,34.3,45.5,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 101,VoltEdge,Audio,2.7,23428,33,60,4.3,3577.03,25.9,35.1,53.5,Low,Synthetic training example for educational use only.
+ClearView Demo Product 102,ClearView,Mobile Accessories,4.2,17561,88,11,4.0,23551.52,32.2,33.0,34.4,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 103,NovaTech,Home,4.7,20548,77,21,4.7,5442.75,11.6,1.5,2.3,Good,Synthetic training example for educational use only.
+Auralink Demo Product 104,Auralink,Computing,3.2,19754,56,40,4.1,17150.0,16.1,25.3,44.5,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 105,PixelPeak,Wearables,3.4,739,67,24,3.6,18836.47,24.7,29.8,42.7,Low,Synthetic training example for educational use only.
+HomePro Demo Product 106,HomePro,Audio,2.9,18897,58,37,5.0,25266.91,11.2,0.3,42.8,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 107,VoltEdge,Mobile Accessories,3.6,852,47,51,4.5,19033.51,17.3,18.5,41.0,Average,Synthetic training example for educational use only.
+ClearView Demo Product 108,ClearView,Home,4.3,6789,76,17,2.3,63017.76,42.8,14.4,27.4,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 109,NovaTech,Computing,2.1,10577,10,89,3.4,26748.21,50.7,20.4,71.5,Low,Synthetic training example for educational use only.
+Auralink Demo Product 110,Auralink,Wearables,3.9,28115,78,13,2.5,10229.17,48.0,27.4,42.0,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 111,PixelPeak,Audio,4.2,14117,73,19,4.7,48502.53,21.1,21.2,19.4,Average,Synthetic training example for educational use only.
+HomePro Demo Product 112,HomePro,Mobile Accessories,2.9,30053,33,59,3.3,57666.56,44.5,31.6,55.5,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 113,VoltEdge,Home,3.3,28472,56,38,3.7,52356.27,30.3,24.6,51.9,Low,Synthetic training example for educational use only.
+ClearView Demo Product 114,ClearView,Computing,4.2,423,81,17,3.7,61098.61,39.7,35.9,42.5,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 115,NovaTech,Wearables,2.8,31645,56,34,4.0,17881.09,29.7,43.2,53.5,Low,Synthetic training example for educational use only.
+Auralink Demo Product 116,Auralink,Audio,3.1,2693,42,58,4.8,24644.28,11.7,42.9,59.6,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 117,PixelPeak,Mobile Accessories,5.0,29982,91,1,4.4,25024.59,47.8,12.1,5.8,Good,Synthetic training example for educational use only.
+HomePro Demo Product 118,HomePro,Home,4.5,16189,78,16,3.6,41329.68,4.6,23.0,19.7,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 119,VoltEdge,Computing,4.8,20364,96,1,2.9,7944.83,15.6,9.5,9.4,Good,Synthetic training example for educational use only.
+ClearView Demo Product 120,ClearView,Wearables,4.6,24302,79,19,2.8,49338.16,15.1,4.6,14.4,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 121,NovaTech,Audio,3.7,12196,55,36,2.2,10766.49,13.2,42.9,52.7,Low,Synthetic training example for educational use only.
+Auralink Demo Product 122,Auralink,Mobile Accessories,2.5,2235,23,69,2.3,39201.62,51.2,14.4,62.2,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 123,PixelPeak,Home,2.2,20074,28,71,3.8,52230.18,30.9,8.5,61.0,Low,Synthetic training example for educational use only.
+HomePro Demo Product 124,HomePro,Computing,4.9,9196,98,1,4.6,18026.29,29.8,12.2,4.2,Good,Synthetic training example for educational use only.
+VoltEdge Demo Product 125,VoltEdge,Wearables,4.5,25665,88,9,4.3,60981.68,37.1,27.1,18.8,Good,Synthetic training example for educational use only.
+ClearView Demo Product 126,ClearView,Audio,3.2,16252,38,62,2.5,21705.48,35.4,28.0,57.4,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 127,NovaTech,Mobile Accessories,4.6,7498,96,0,3.5,48969.07,5.8,12.3,19.0,Good,Synthetic training example for educational use only.
+Auralink Demo Product 128,Auralink,Home,3.7,16721,69,30,4.1,61535.51,0.9,40.1,48.1,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 129,PixelPeak,Computing,3.6,13754,47,47,4.6,65617.9,26.2,17.6,38.6,Average,Synthetic training example for educational use only.
+HomePro Demo Product 130,HomePro,Wearables,3.0,1007,50,48,3.3,10360.36,44.6,41.1,63.0,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 131,VoltEdge,Audio,4.2,20835,67,26,3.4,48651.99,43.0,42.5,46.9,Average,Synthetic training example for educational use only.
+ClearView Demo Product 132,ClearView,Mobile Accessories,3.9,31056,61,33,3.0,59911.98,30.7,2.5,32.4,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 133,NovaTech,Home,2.2,25477,30,63,2.8,7539.13,54.4,3.8,55.7,Low,Synthetic training example for educational use only.
+Auralink Demo Product 134,Auralink,Computing,4.1,25914,75,24,4.8,44668.15,20.0,10.3,26.2,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 135,PixelPeak,Wearables,3.6,12980,56,41,2.8,61929.6,0.2,20.7,53.9,Low,Synthetic training example for educational use only.
+HomePro Demo Product 136,HomePro,Audio,3.2,1959,39,54,2.3,34359.02,24.5,16.4,55.4,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 137,VoltEdge,Mobile Accessories,3.7,21745,51,42,4.9,30861.52,21.4,14.3,35.6,Average,Synthetic training example for educational use only.
+ClearView Demo Product 138,ClearView,Home,3.7,12235,78,17,2.3,5019.01,25.1,31.2,44.7,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 139,NovaTech,Computing,3.0,4505,49,48,3.6,67852.03,54.2,21.4,51.8,Low,Synthetic training example for educational use only.
+Auralink Demo Product 140,Auralink,Wearables,2.2,16902,40,55,4.2,67619.04,51.6,29.1,57.8,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 141,PixelPeak,Audio,3.9,28929,69,31,3.8,36644.32,39.3,40.4,47.1,Average,Synthetic training example for educational use only.
+HomePro Demo Product 142,HomePro,Mobile Accessories,3.5,11673,53,39,3.2,41670.97,29.7,18.3,46.9,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 143,VoltEdge,Home,4.5,18562,79,21,2.8,62600.87,7.1,24.4,22.5,Average,Synthetic training example for educational use only.
+ClearView Demo Product 144,ClearView,Computing,3.3,25995,51,43,4.0,39370.93,29.4,33.8,45.0,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 145,NovaTech,Wearables,3.3,20442,60,33,2.9,43321.78,46.8,5.2,34.5,Low,Synthetic training example for educational use only.
+Auralink Demo Product 146,Auralink,Audio,4.2,20459,74,21,2.8,27805.71,53.8,30.5,31.3,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 147,PixelPeak,Mobile Accessories,3.1,24507,38,55,3.7,52032.44,34.5,15.0,52.3,Low,Synthetic training example for educational use only.
+HomePro Demo Product 148,HomePro,Home,2.7,17326,44,49,4.6,793.55,0.9,22.9,53.2,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 149,VoltEdge,Computing,2.5,15434,23,67,2.3,20341.31,53.5,9.7,63.2,Low,Synthetic training example for educational use only.
+ClearView Demo Product 150,ClearView,Wearables,3.1,7464,47,46,2.9,17830.81,40.8,2.7,51.3,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 151,NovaTech,Audio,3.4,11953,50,49,3.8,32701.93,22.6,0.1,29.2,Average,Synthetic training example for educational use only.
+Auralink Demo Product 152,Auralink,Mobile Accessories,2.3,17213,30,61,2.2,25853.0,40.7,11.2,68.3,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 153,PixelPeak,Home,4.7,21486,97,3,2.3,9932.22,21.7,28.6,27.8,Average,Synthetic training example for educational use only.
+HomePro Demo Product 154,HomePro,Computing,5.0,2879,98,1,3.8,6790.42,20.6,9.7,17.6,Good,Synthetic training example for educational use only.
+VoltEdge Demo Product 155,VoltEdge,Wearables,4.9,4637,98,2,2.4,53533.69,48.1,44.6,33.4,Average,Synthetic training example for educational use only.
+ClearView Demo Product 156,ClearView,Audio,2.8,9431,50,49,3.0,51522.98,5.0,16.0,52.3,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 157,NovaTech,Mobile Accessories,4.8,18950,97,3,4.9,1630.66,38.9,44.7,12.1,Good,Synthetic training example for educational use only.
+Auralink Demo Product 158,Auralink,Home,5.0,13848,86,13,2.7,6010.74,39.2,9.5,11.9,Good,Synthetic training example for educational use only.
+PixelPeak Demo Product 159,PixelPeak,Computing,4.1,14990,68,23,2.8,48113.75,21.3,36.5,45.2,Low,Synthetic training example for educational use only.
+HomePro Demo Product 160,HomePro,Wearables,4.1,5946,80,12,3.0,64385.11,44.0,19.0,29.6,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 161,VoltEdge,Audio,4.8,27983,98,1,3.8,28438.0,9.7,18.4,20.0,Good,Synthetic training example for educational use only.
+ClearView Demo Product 162,ClearView,Mobile Accessories,2.5,30534,42,49,2.7,16238.91,30.9,15.2,59.5,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 163,NovaTech,Home,3.8,11482,52,42,3.1,3202.68,19.5,27.4,38.0,Low,Synthetic training example for educational use only.
+Auralink Demo Product 164,Auralink,Computing,3.2,3776,54,46,4.7,42579.95,53.4,7.2,29.9,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 165,PixelPeak,Wearables,4.8,30735,84,9,3.1,12413.76,38.1,38.8,33.2,Average,Synthetic training example for educational use only.
+HomePro Demo Product 166,HomePro,Audio,2.4,4947,17,74,4.8,10541.56,18.5,44.9,75.4,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 167,VoltEdge,Mobile Accessories,5.0,8339,88,2,4.0,37940.76,34.9,35.8,28.3,Good,Synthetic training example for educational use only.
+ClearView Demo Product 168,ClearView,Home,2.0,34072,36,63,3.9,4256.99,21.4,5.1,61.6,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 169,NovaTech,Computing,2.9,28804,49,51,3.9,46312.26,38.5,16.0,55.5,Low,Synthetic training example for educational use only.
+Auralink Demo Product 170,Auralink,Wearables,4.5,22431,85,9,3.1,22541.8,38.9,36.7,32.6,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 171,PixelPeak,Audio,4.8,1931,98,0,3.5,11296.34,18.5,19.1,22.6,Good,Synthetic training example for educational use only.
+HomePro Demo Product 172,HomePro,Mobile Accessories,2.5,20818,22,77,4.1,21075.76,35.6,43.7,68.8,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 173,VoltEdge,Home,3.2,13351,64,36,4.8,48794.52,16.3,24.3,33.1,Average,Synthetic training example for educational use only.
+ClearView Demo Product 174,ClearView,Computing,3.6,5788,70,29,3.9,69217.16,9.0,1.6,28.8,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 175,NovaTech,Wearables,2.3,16155,24,74,4.0,21092.94,11.1,8.5,67.1,Low,Synthetic training example for educational use only.
+Auralink Demo Product 176,Auralink,Audio,3.1,22624,44,51,3.2,20306.0,32.7,3.3,44.7,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 177,PixelPeak,Mobile Accessories,4.0,3020,60,38,2.3,1857.2,14.6,6.0,32.8,Average,Synthetic training example for educational use only.
+HomePro Demo Product 178,HomePro,Home,2.6,23359,33,57,2.4,37711.84,34.2,10.8,61.7,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 179,VoltEdge,Computing,3.1,28548,57,37,2.7,39055.87,6.0,19.5,52.3,Low,Synthetic training example for educational use only.
+ClearView Demo Product 180,ClearView,Wearables,3.2,7789,64,36,2.9,27823.04,37.1,38.1,48.5,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 181,NovaTech,Audio,2.0,29765,7,93,3.9,54186.52,29.0,11.4,73.8,Low,Synthetic training example for educational use only.
+Auralink Demo Product 182,Auralink,Mobile Accessories,4.3,8776,87,4,3.5,54535.33,48.9,15.9,17.8,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 183,PixelPeak,Home,4.6,9298,77,20,4.1,54975.62,42.0,32.4,33.8,Average,Synthetic training example for educational use only.
+HomePro Demo Product 184,HomePro,Computing,2.8,8428,33,67,4.2,35355.61,40.3,35.2,56.7,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 185,VoltEdge,Wearables,2.3,4808,42,56,4.1,25246.23,39.0,5.1,54.8,Low,Synthetic training example for educational use only.
+ClearView Demo Product 186,ClearView,Audio,4.5,15541,98,1,4.4,65153.55,42.0,20.8,8.8,Good,Synthetic training example for educational use only.
+NovaTech Demo Product 187,NovaTech,Mobile Accessories,3.8,8906,80,15,4.3,21798.9,22.3,3.9,33.7,Average,Synthetic training example for educational use only.
+Auralink Demo Product 188,Auralink,Home,4.7,13821,78,18,4.3,38419.9,12.6,44.9,26.2,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 189,PixelPeak,Computing,4.5,24258,95,5,2.8,6912.25,9.8,43.7,36.7,Average,Synthetic training example for educational use only.
+HomePro Demo Product 190,HomePro,Wearables,3.7,26795,61,32,3.3,518.43,53.5,12.9,44.7,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 191,VoltEdge,Audio,2.3,25966,41,55,3.7,61226.09,37.5,17.6,56.0,Low,Synthetic training example for educational use only.
+ClearView Demo Product 192,ClearView,Mobile Accessories,2.2,29628,26,66,4.3,42902.13,38.1,19.8,54.4,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 193,NovaTech,Home,3.4,19510,58,37,3.5,34539.79,47.3,43.6,54.8,Low,Synthetic training example for educational use only.
+Auralink Demo Product 194,Auralink,Computing,3.9,30934,67,23,3.9,5775.96,20.8,31.7,46.0,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 195,PixelPeak,Wearables,3.0,30480,46,47,3.5,8505.68,17.5,12.9,52.3,Low,Synthetic training example for educational use only.
+HomePro Demo Product 196,HomePro,Audio,3.5,15572,51,43,4.3,57611.48,0.3,7.5,37.9,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 197,VoltEdge,Mobile Accessories,4.6,1132,85,15,2.7,12983.95,27.9,15.5,32.8,Average,Synthetic training example for educational use only.
+ClearView Demo Product 198,ClearView,Home,4.8,19060,96,0,3.3,35668.34,14.1,16.9,15.9,Good,Synthetic training example for educational use only.
+NovaTech Demo Product 199,NovaTech,Computing,2.2,33824,29,68,4.5,66175.24,0.4,28.1,70.7,Low,Synthetic training example for educational use only.
+Auralink Demo Product 200,Auralink,Wearables,4.7,7287,75,20,2.5,27506.36,27.5,19.8,36.8,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 201,PixelPeak,Audio,2.1,2206,16,79,4.7,21569.29,3.1,12.2,66.7,Low,Synthetic training example for educational use only.
+HomePro Demo Product 202,HomePro,Mobile Accessories,4.9,32337,94,1,3.4,28389.66,7.3,21.5,15.9,Good,Synthetic training example for educational use only.
+VoltEdge Demo Product 203,VoltEdge,Home,2.1,34586,22,78,4.5,11444.29,48.0,0.7,52.3,Low,Synthetic training example for educational use only.
+ClearView Demo Product 204,ClearView,Computing,3.6,34390,66,25,4.4,38586.22,40.2,42.4,35.6,Average,Synthetic training example for educational use only.
+NovaTech Demo Product 205,NovaTech,Wearables,3.9,5877,64,30,2.6,2312.79,23.8,37.5,42.6,Low,Synthetic training example for educational use only.
+Auralink Demo Product 206,Auralink,Audio,4.4,1326,87,8,2.8,823.84,12.7,23.5,21.1,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 207,PixelPeak,Mobile Accessories,2.2,21598,41,59,2.4,11369.2,21.8,38.5,69.0,Low,Synthetic training example for educational use only.
+HomePro Demo Product 208,HomePro,Home,4.8,26631,78,21,3.3,14518.54,13.7,0.9,12.3,Good,Synthetic training example for educational use only.
+VoltEdge Demo Product 209,VoltEdge,Computing,2.3,10279,38,60,3.1,50984.09,53.3,10.1,55.3,Low,Synthetic training example for educational use only.
+ClearView Demo Product 210,ClearView,Wearables,4.5,24632,98,2,4.2,60130.48,38.8,18.7,10.7,Good,Synthetic training example for educational use only.
+NovaTech Demo Product 211,NovaTech,Audio,4.9,4993,80,18,3.6,21333.02,23.7,22.2,19.1,Good,Synthetic training example for educational use only.
+Auralink Demo Product 212,Auralink,Mobile Accessories,3.7,699,61,32,4.1,39322.04,9.6,43.6,49.9,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 213,PixelPeak,Home,4.6,2797,97,0,3.2,11457.37,53.3,30.4,19.1,Average,Synthetic training example for educational use only.
+HomePro Demo Product 214,HomePro,Computing,4.9,20549,98,1,3.8,17054.13,4.2,16.6,7.2,Good,Synthetic training example for educational use only.
+VoltEdge Demo Product 215,VoltEdge,Wearables,4.9,28967,98,0,4.0,63030.04,45.1,25.3,13.8,Good,Synthetic training example for educational use only.
+ClearView Demo Product 216,ClearView,Audio,2.5,10502,24,71,2.9,62911.47,16.1,28.6,70.7,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 217,NovaTech,Mobile Accessories,4.6,688,98,0,3.3,43493.5,38.9,31.5,22.6,Average,Synthetic training example for educational use only.
+Auralink Demo Product 218,Auralink,Home,2.9,11285,40,55,3.3,4728.44,53.1,34.0,60.7,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 219,PixelPeak,Computing,2.2,17655,33,64,4.6,592.03,40.3,14.2,56.5,Low,Synthetic training example for educational use only.
+HomePro Demo Product 220,HomePro,Wearables,3.0,3928,49,48,3.7,30652.96,6.5,31.0,58.5,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 221,VoltEdge,Audio,3.9,6846,70,27,3.0,15097.39,41.0,32.6,38.8,Low,Synthetic training example for educational use only.
+ClearView Demo Product 222,ClearView,Mobile Accessories,4.0,6965,63,29,2.3,14487.73,22.7,31.1,40.6,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 223,NovaTech,Home,2.6,26033,45,46,4.8,40032.51,7.7,32.0,64.1,Low,Synthetic training example for educational use only.
+Auralink Demo Product 224,Auralink,Computing,4.0,17722,64,35,3.6,63589.36,48.6,24.0,34.3,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 225,PixelPeak,Wearables,2.3,11802,41,55,2.9,55072.87,40.8,17.4,64.6,Low,Synthetic training example for educational use only.
+HomePro Demo Product 226,HomePro,Audio,4.4,6811,88,9,2.4,64069.29,44.0,34.7,44.2,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 227,VoltEdge,Mobile Accessories,4.4,19258,73,22,2.4,63828.38,24.7,31.8,37.3,Average,Synthetic training example for educational use only.
+ClearView Demo Product 228,ClearView,Home,3.2,27837,48,51,3.6,47740.38,36.9,31.8,53.4,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 229,NovaTech,Computing,2.6,11519,36,63,4.4,10133.36,43.9,16.8,61.3,Low,Synthetic training example for educational use only.
+Auralink Demo Product 230,Auralink,Wearables,4.0,21268,71,29,4.9,38277.93,12.2,12.4,21.1,Average,Synthetic training example for educational use only.
+PixelPeak Demo Product 231,PixelPeak,Audio,3.6,4743,67,33,3.9,16553.42,46.1,36.8,40.0,Low,Synthetic training example for educational use only.
+HomePro Demo Product 232,HomePro,Mobile Accessories,4.6,33290,98,2,3.0,22500.67,9.6,19.7,27.0,Average,Synthetic training example for educational use only.
+VoltEdge Demo Product 233,VoltEdge,Home,3.2,22154,60,39,2.7,4807.4,54.8,23.1,55.6,Low,Synthetic training example for educational use only.
+ClearView Demo Product 234,ClearView,Computing,2.8,6775,50,45,2.4,4279.48,18.5,42.8,65.2,Low,Synthetic training example for educational use only.
+NovaTech Demo Product 235,NovaTech,Wearables,3.5,10277,46,54,4.9,13392.85,30.3,21.8,37.8,Average,Synthetic training example for educational use only.
+Auralink Demo Product 236,Auralink,Audio,2.5,11264,36,56,3.9,8162.77,8.9,33.5,67.3,Low,Synthetic training example for educational use only.
+PixelPeak Demo Product 237,PixelPeak,Mobile Accessories,4.1,6388,81,12,4.7,52303.77,7.1,20.6,26.3,Average,Synthetic training example for educational use only.
+HomePro Demo Product 238,HomePro,Home,3.3,30625,62,37,3.6,53366.64,48.5,38.0,51.0,Low,Synthetic training example for educational use only.
+VoltEdge Demo Product 239,VoltEdge,Computing,3.9,13178,71,28,4.4,7000.41,52.2,5.3,30.7,Average,Synthetic training example for educational use only.
+ClearView Demo Product 240,ClearView,Wearables,3.8,11683,68,27,4.6,13433.5,41.3,30.3,36.4,Average,Synthetic training example for educational use only.
